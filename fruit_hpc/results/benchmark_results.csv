@@ -1,0 +1,9 @@
+Experiment,Method,Time,Accuracy
+Preprocessing,Sequential,0.132848,0
+Preprocessing,OpenMP,0.105381,0
+Normalization,CPU,0.0871763,0
+Normalization,CUDA,0.297085,0
+CNN Training Exp1,CPU,345.488,0
+CNN Training Exp1,GPU,16.293,0
+CNN Training Exp2,GPU,87.516,0
+Model Evaluation Exp2,GPU,22.2212,87.7674
